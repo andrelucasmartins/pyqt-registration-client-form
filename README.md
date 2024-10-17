@@ -1,0 +1,1 @@
+# pyqt-registration-client-form
