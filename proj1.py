@@ -1,6 +1,6 @@
 import sys
 
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QWidget, QApplication, QLineEdit, QPushButton, QMessageBox, QFormLayout
 
 
 class Window(QWidget):
